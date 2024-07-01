@@ -16,7 +16,7 @@ $(function(){
 		{
 			name: "Hair Loss - Feeling bad",
 			artist: "Hair Loss",
-			image: "2.png",
+			image: "1.png",
 			path: "2.mp3",
 		},
 		{
@@ -28,7 +28,7 @@ $(function(){
 		{
 			name: "Hair Loss - bought a hoodie",
 			artist: "Hair Loss",
-			image: "2.png",
+			image: "1.png",
 			path: "4.mp3",
 		},
 		{
@@ -40,7 +40,7 @@ $(function(){
 		{
 			name: "Hair Loss - pedo mode",
 			artist: "Hair Loss",
-			image: "2.png",
+			image: "1.png",
 			path: "6.mp3",
 		}
 	]
