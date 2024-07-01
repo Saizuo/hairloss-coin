@@ -22,7 +22,7 @@ $(function(){
 		{
 			name: "Hair Loss - Wearing hats",
 			artist: "Hair Loss",
-			image: "1.jpg",
+			image: "1.png",
 			path: "3.mp3",
 		},
 		{
@@ -34,7 +34,7 @@ $(function(){
 		{
 			name: "Hair Loss - shaved that shit",
 			artist: "Hair Loss",
-			image: "1.jpg",
+			image: "1.png",
 			path: "5.mp3",
 		},
 		{
